@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bangalore - India City Explorer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="header">
+<h1>Explore Bangalore</h1>
+<p> The Tech-hub of India </p>
+</div>
+
+<h2 class="attractions">Top Attractions</h2>
+
+<div class="card">
+<img src="banglore palace.jpeg" width="250">
+<h3>Bangalore Palace</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Bangalore+Palace," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="tipu.jpg" width="250">
+<h3>Tipu Sultan's Summer Palace</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Tipu+Sultan's+Summer+Palace," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="bull temple.jpeg" width="250">
+<h3>Bull Temple</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Bull+Temple," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="lalbagh.jpg" width="250">
+<h3>Lalbagh Botanical Garden</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Lalbagh+Botanical+Garden," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="ulsoor lake.jpg" width="250">
+<h3>Ulsoor Lake</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Ulsoor+Lake," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="hebbal lake.jpg" width="250">
+<h3>Hebbal Lake</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Hebbal+Lake,+Hebbal+Kempapura," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="iskcon banglore.jpg" width="250">
+<h3>ISKCON Temple Bangalore</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/ISKCON+Bangalore," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="nandi hills.jpg" width="250">
+<h3>Nandi Hills</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Nandi+Hills," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="wonderlaaa.jpg" width="250">
+<h3>Wonderla Amusement Park</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Wonderla+Amusement+Park," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="jawahrlal.jpg" width="250">
+<h3>Jawahrlal Nehru Planetarium</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Jawaharlal+Nehru+Planetarium," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<h2 class="attractions">Must Try Foods</h2>
+
+<div class="card">
+<img src="bisi.jpg" width="250">
+<h3>Bisi Bele Bath</h3>
+<p>Recommended place to eat: Mavalli Tiffin Rooms(MTR)</p>
+<img src="mtr.jpg" width="250"><br>
+<a href="https://www.google.com/maps/dir/19.0834646,72.9010765/MTR,+14,+Lal+Bagh+Main+Rd," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="masala dosa.jpg" width="250">
+<h3>Masala Dosa</h3>
+<p>Recommended place to eat:The Rameshwaram Cafe </p>
+<img src="rameshwaram cafe.jpg" width="250"><br>
+<a href="https://www.google.com/maps/dir/19.0834646,72.9010765/The+Rameshwaram+Cafe" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="ragi mudde.JPG" width="250">
+<h3>Ragi Mudde</h3>
+<p>Recommended place to eat: The Rameshwaram Cafe</p>
+<img src="rameshwaram cafe.jpg" width="250"><br>
+<a href="https://www.google.com/maps/dir/19.0834646,72.9010765/The+Rameshwaram+Cafe" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="maddur vada.jpg" width="250">
+<h3>Maddur Vada</h3>
+<p>Recommended place to eat:Idli Dosa Coffee </p>
+<img src="idc.jpg" width="250"><br>
+<a href="https://www.google.com/maps/dir/19.0834646,72.9010765/IDC+Kitchen,+Media+Domain," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="vangi bath.jpg" width="250">
+<h3>Vangi Bath</h3>
+<p>Recommended place to eat:BN Sambaiah Shetty Tiffin Room </p>
+<img src="bn.jpg" width="250"><br>
+<a href="https://www.google.com/maps/place/B+N+Sambaiah+Setty+Tiffin+Room" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="akki roti.jpg" width="250">
+<h3>Akki Roti</h3>
+<p>Recommended place to eat:Idli Dosa Coffee </p>
+<img src="idc.jpg" width="250"><br>
+<a href="https://www.google.com/maps/dir/19.0834646,72.9010765/IDC+Kitchen,+Media+Domain," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="mysore pak.jpeg" width="250">
+<h3>Mysore Pak</h3>
+<p>Recommended place to eat: Shree Krishna Sweets</p>
+<img src="sri krishna.jpg" width="250"><br>
+<a href="https://www.google.com/maps/search/shree+krishna+sweets+bangalore" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="filter coffee.jpg" width="250">
+<h3>Filter Coffee</h3>
+<p>Recommended place to eat:Idli Dosa Coffee </p>
+<img src="idc.jpg" width="250"><br>
+<a href="https://www.google.com/maps/dir/19.0834646,72.9010765/IDC+Kitchen,+Media+Domain," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<h2 class="attractions">Street Shopping</h2>
+<div class="card">
+<img src="commercial street.jpg" width="250">
+<h3>Commercial Street</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Commercial+Street," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="brigade road.jpg" width="250">
+<h3>Brigade Road</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Brigade+Rd,+Shanthala+Nagar,+Ashok+Nagar," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="chickpet market.jpg" width="250">
+<h3>Chickpet Market</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Chickpet+Market," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="kr market.jpg" width="250">
+<h3>KR Market</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/KR+Market,+Huriopet,+Chickpet,+Bengaluru," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="malleswaram.jpg" width="250">
+<h3>Malleswaram Market</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Malleshwara+Shopping+Point," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+
+<div class="card">
+<img src="gandhi bazaar.jpg" width="250">
+<h3>Gandhi Bazaar</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Gandhi+Bazaar," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="footer">
+<p>© 2026 India City Explorer | Created by Hia Gada & Delisha Rodrigues</p>
+</div>
+
+</body>
+</html>

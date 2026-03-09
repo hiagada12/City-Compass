@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Delhi - India City Explorer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="header">
+<h1>Explore Delhi</h1>
+<p>India's Captital</p>
+</div>
+
+<h2 class="attractions">Top Attractions</h2>
+
+<div class="card">
+<img src="red fort.jpg" width="250">
+<h3>Red Fort</h3>
+<a href=https://www.google.com/maps/dir//Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="qutub minar.jpg" width="250">
+<h3>Qutub Minar</h3>
+<a href="https://www.google.com/maps/dir/30.1667003,82.9638599/Qutb+Minar,+Seth+Sarai,+Mehrauli,+New+Delhi" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="humayuns tomb.jpg" width="250">
+<h3>Humayun's Tomb</h3>
+<a href="https://www.google.com/maps/dir/19.0834646,72.9010765/Humayun%E2%80%99s+Tomb,+Hazrat+Nizamuddin+Aulia+Dargah," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="purana kila.jpg" width="250">
+<h3>Purana Qila</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Purana+Quila," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="lotus temple.jpg" width="250">
+<h3>Lotus Temple</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Lotus+Temple,+Lotus+Temple+Rd+Bahapur,+Kalkaji,+New+Delhi," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="gurudwara bangla sahib.jpg" width="250">
+<h3>Gurudwara Bangla Sahib</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Gurdwara+Bangla+Sahib," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="india gate.jpg" width="250">
+<h3>India Gate</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/India+Gate,+Kartavya+Path,+India+Gate,+New+Delhi," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="rashtrapati bhavan.jpg" width="250">
+<h3>Rashtrapati Bhavan</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Rashtrapati+Bhavan," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="lodhi garden.jpg" width="250">
+<h3>Lodhi Garden</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Lodhi+Garden,+Lodhi+Rd,+Lodhi+Gardens," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="akshardham temple.jpg" width="250">
+<h3>Akshardham Temple</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Swaminarayan+Akshardham," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<h2 class="attractions">Must Try Foods</h2>
+
+<div class="card">
+<img src="parathe.jpg" width="250">
+<h3>Paratha</h3>
+<p>Recommended place to eat:Moolchand Parantha </p>
+<img src="moolchand parantha.jpg" width="250"><br>
+<a href="https://www.google.com/maps/place/Moolchand+Parantha" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="chole bhature.jpg" width="250">
+<h3>Chole Bhature</h3>
+<p>Recommended place to eat:Sita Ram Diwan Chand </p>
+<img src="sita ram.jpg" width="250"><br>
+<a href="https://www.google.com/maps/place/Sita+Ram+Diwan+Chand/" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="laping.jpg" width="250">
+<h3>Laphing</h3>
+<p>Recommended place to eat:Laphing Express </p>
+<img src="laphing express.jpg" width="250"><br>
+<a href="https://www.google.com/maps/place/Best+Laphing" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="momos.jpg" width="250">
+<h3>Momos</h3>
+<p>Recommended place to eat:Dolma Aunty Momos </p>
+<img src="dolma aunty.jpg" width="250"><br>
+<a href="https://www.google.com/maps/search/dolma+aunty+momos" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="chaat.jpg" width="250">
+<h3>Chaat</h3>
+<p>Recommended place to eat:Prince Chaat </p>
+<img src="prince chaat.jpg" width="250"><br>
+<a href="https://www.google.com/maps/search/prince+chaat+delhi" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="imarti.jpg" width="250">
+<h3>Imarti</h3>
+<p>Recommended place to eat:Hariram Sweets </p>
+<img src="hariram sweets.jpg" width="250"><br>
+<a href="https://www.google.com/maps/dir//Hariram+Sweets,+Main," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="rajma chawal.jpg" width="250">
+<h3>Rajma Chawal</h3>
+<p>Recommended place to eat:Dhaba Food </p>
+<img src="dhaba food.jpg" width="250"><br>
+<a href="https://www.google.com/maps/dir//Shop+No.+129,+Dhaba+Food," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<h2 class="attractions">Street Shopping</h2>
+<div class="card">
+<img src="sarojini nagar.jpg" width="250">
+<h3>Sarojini Nagar</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Sarojini+Nagar+Market" target="_blank">
+<button>Get Directions</button>
+</a>
+</div> 
+
+<div class="card">
+<img src="janpath market.jpg" width="250">
+<h3>Janpath Market</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Janpath+Market," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="chandni chowk.jpg" width="250">
+<h3>Chandni Chowk</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Chandni+Chowk," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="lajpat nagar.jpg" width="250">
+<h3>Lajpat Nagar </h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Lajpat+Nagar,+New+Delhi,," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="karol baugh.jpg" width="250">
+<h3>Karol Baugh Market</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Karol+Bagh,+New+Delhi," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="majnu ka tila.jpg" width="250">
+<h3>Majnu ka Tila</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Majnu-ka-tilla," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="dilli haat.jpg" width="250">
+<h3>Dilli Haat</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Dilli+Haat+-+INA,+INA+Market,+Dilli+Haat," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+
+<div class="footer">
+<p>© 2026 India City Explorer | Created by Hia Gada & Delisha Rodrigues</p>
+</div>
+
+</body>
+</html>
