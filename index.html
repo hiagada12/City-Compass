@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CityCompass</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="header">
+<h1>CityCompass</h1>
+<p>Your Guide to the Best Streets, Bites & Sights.</p>
+</div>
+
+<div class="searchbox">
+<input type="text" id="city" placeholder="Enter a city (e.g. Mumbai)">
+<button onclick="searchCity()">Search</button>
+</div>
+
+<div class="cities">
+
+<div class="card">
+<h3>Mumbai</h3>
+<p>The city of dreams with beaches, street food and nightlife.</p>
+<a href="mumbai.html">
+<button>Explore Mumbai</button>
+</a>
+</div>
+
+<div class="card">
+<h3>Delhi</h3>
+<p>India's capital known for history and monuments.</p>
+<a href="delhi.html">
+<button>Explore Delhi</button>
+</a>
+</div>
+
+<div class="card">
+<h3>Bangalore</h3>
+<p>The tech hub of India with cafes and pleasant weather.</p>
+<a href="bangalore.html">
+<button>Explore Bangalore</button>
+</a>
+</div>
+
+<div class="card">
+<h3>Nashik</h3>
+<p>Famous for vineyards, temples and scenic beauty.</p>
+<a href="nashik.html">
+<button>Explore Nashik</button>
+</a>
+</div>
+
+<div class="card">
+<h3>Surat</h3>
+<p>A vibrant city known for textiles and delicious food.</p>
+<a href="surat.html">
+<button>Explore Surat</button>
+</a>
+</div>
+
+<div class="card">
+<h3>Jaipur</h3>
+<p>The Pink City famous for forts and royal palaces.</p>
+<a href="jaipur.html">
+<button>Explore Jaipur</button>
+</a>
+</div>
+
+<div class="card">
+<h3>Hyderabad</h3>
+<p>Known for biryani, Charminar and historic culture.</p>
+<a href="hyderabad.html">
+<button>Explore Hyderabad</button>
+</a>
+</div>
+
+<div class="card">
+<h3>Pune</h3>
+<p>A cultural city famous for education and nightlife.</p>
+<a href="pune.html">
+<button>Explore Pune</button>
+</a>
+</div>
+
+</div>
+
+
+<p class="about">
+About City Compass<br>
+
+City Compass is your ultimate digital guide to discovering the true essence of any city. 
+Whether you're a traveler, a foodie, or a shopping enthusiast, we help you explore the most famous places, 
+vibrant food streets, and buzzing shopping hubs, all in one place.<br>
+
+Our goal is simple:<br>
+To make city exploration easy, exciting, and authentic.<br>
+
+From iconic landmarks to hidden local gems, City Compass provides curated recommendations that 
+help you experience a city like a local. We bring together must-visit attractions, street food hotspots, popular markets, 
+and cultural highlights so you never miss out on what makes a city special.<br><br>
+
+What We Offer: <br>
+
+Famous tourist attractions <br>
+Popular food streets & local eateries <br>
+Best shopping markets & malls<br>
+Whether you’re planning a trip or just exploring your own city, City Compass points you in the right direction.<br>
+Explore More. Taste More. Discover More.<br>
+</p>
+
+
+<div class="footer">
+Developed by Hia Gada and Delisha Rodrigues
+</div>
+
+
+<script>
+
+function searchCity()
+{
+
+var cityname = document.getElementById("city").value;
+
+if(cityname=="Mumbai" || cityname=="mumbai")
+{
+window.location="mumbai.html";
+}
+
+else if(cityname=="Delhi" || cityname=="delhi")
+{
+window.location="delhi.html";
+}
+else if(cityname=="Bangalore" || cityname=="Bangalore")
+{
+window.location="Bangalore.html";
+}
+else if(cityname=="Nashik" || cityname=="Nashik")
+{
+window.location="Nashik.html";
+}
+else if(cityname=="Surat" || cityname=="Surat")
+{
+window.location="Surat.html";
+}
+else if(cityname=="Pune" || cityname=="Pune")
+{
+window.location="Pune.html";
+}
+else if(cityname=="Hydrebad" || cityname=="Hydrebad")
+{
+window.location="Hydrebad.html";
+}
+else if(cityname=="Jaipur" || cityname=="Jaipur")
+{
+window.location="Jaipur.html";
+}
+else
+{
+alert("City not found");
+}
+}
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Delhi - India City Explorer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="header">
+<h1>Explore Jaipur</h1>
+<p> The Pink City of India </p>
+</div>
+
+<h2 class="attractions">Top Attractions</h2>
+
+<div class="card">
+<img src="amer fort.jpg" width="250">
+<h3>Amer Fort</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Amber+Palace," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="hawa mahal.jpg" width="250">
+<h3>Hawa Mahal</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Hawa+Mahal," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="city palace.jpg" width="250">
+<h3>City Palace</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Hotel+City+Palace," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="jantar mantar.jpg" width="250">
+<h3>Jantar Mantar</h3>
+<a href= https://www.google.com/maps/dir/19.0834646,72.9010765/Jantar+Mantar," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="albert hall museum.jpg" width="250">
+<h3>Albert Hall Museum</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Albert+Hall+Museum," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="nahargarh fort.jpg" width="250">
+<h3>Naharagarh Fort</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Nahargarh+Fort,+Krishna+Nagar," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="jaigarh fort.jpg" width="250">
+<h3> Jaigarh Fort </h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Jaigarh+Fort,target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="jal mahal.jpg" width="250">
+<h3>Jal Mahal</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Jal+Mahal, target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="birla mandir.jpg" width="250">
+<h3>Birla Mandir </h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Birla+Mandir," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="patrika gate.jpg" width="250">
+<h3>Patrika Gate</h3>
+<a href= https://www.google.com/maps/dir/19.0834646,72.9010765/Patrika+Gate," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<h2 class="attractions">Must Try Foods</h2>
+
+<div class="card">
+<img src="dal baati.jpg" width="250">
+<h3>Dal Baati Churma</h3>
+<p>Recommended place to eat:Rajasthani bhog </p>
+<img src="rajasthani bhog.jpg" width="250"><br>
+<a href="https://www.google.com/maps/place/Rajasthani+Bhog" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="pyaaz kachori.jpg" width="250">
+<h3>Pyaaz Kachori</h3>
+<p>Recommended place to eat:kota kachori </p>
+<img src="kota kachori.jpg" width="250"><br>
+<a href="https://www.google.com/maps/place/Kota+kachori" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="mirchi bada.jpg" width="250">
+<h3>Mirchi Bada</h3>
+<p>Recommended place to eat:Rawat Mishtan Bhandar </p>
+<img src="rawat mishtan.png" width="250"><br>
+<a href="https://www.google.com/maps/place/Rawat+Misthan+Bhandar" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="jalebi.jpg" width="250">
+<h3>Jalebi Rabdi</h3>
+<p>Recommended place to eat:Rawat Mishtan Bhandar </p>
+<img src="rawat misthan.png"  width="250"><br>
+<a href="https://www.google.com/maps/place/Rawat+Misthan+Bhandar" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="ghewar.jpg" width="250">
+<h3>Ghewar</h3>
+<p>Recommended place to eat: Govindam Sweets</p>
+<img src="govindam sweets.jpg" width="250"><br>
+<a href="https://www.google.com/maps/place/Govindam+Sweets" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="mawa kachori.jpg" width="250">
+<h3>Mawa Kachori</h3>
+<p>Recommended place to eat:Kota Kachori </p>
+<img src="kota kachori.jpg" width="250"><br>
+<a href="https://www.google.com/maps/place/Kota+kachori" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="dal kachori.jpg" width="250">
+<h3>Dal Kachori</h3>
+<p>Recommended place to eat:Kota Kachori </p>
+<img src="kota kachori.jpg" width="250"><br>
+<a href="https://www.google.com/maps/place/Kota+kachori" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="gatte ki sabzi.jpg" width="250">
+<h3>Gatte ki Sabzi</h3>
+<p>Recommended place to eat:Handi Restaurant </p>
+<img src="handi.jpg" width="250"><br>
+<a href="https://www.google.com/maps/place/Handi+restaurant+jaipur" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<h2 class="attractions">Street Shopping</h2>
+<div class="card">
+<img src="johri.jpg" width="250">
+<h3>Johri Bazaar</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Johri+Bazar,+Gangori+Bazar," target="_blank">
+<button>Get Directions</button>
+</a>
+</div> 
+
+<div class="card">
+<img src="bapu.jpg" width="250">
+<h3>Bapu Bazaar</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Bapu+Bazaar,+Bapu+Bazar," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="tripolia.png" width="250">
+<h3>Tripolia Bazaar</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Tripolia+Bazar," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="nehru.jpg" width="250">
+<h3>Nehru Bazaar </h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Nehru+Bazar+Rd,+Nehru+Bazar," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="chandpole.jpg" width="250">
+<h3>Chandpole Bazaar</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Chandpole+Bazar," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="sireh deori.jpg" width="250">
+<h3>Sireh Deori Bazaar</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Sireh+Deori," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="mi road.jpg" width="250">
+<h3>MI Road</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Mirza+Ismail+Rd,+Jaipur," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+
+<div class="footer">
+<p>© 2026 India City Explorer | Created by Hia Gada & Delisha Rodrigues</p>
+</div>
+
+</body>
+</html>
