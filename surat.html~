@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Surat - India City Explorer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="header">
+<h1>Explore Surat</h1>
+<p>The City of Textiles and Diamonds</p>
+</div>
+
+<h2 class="attractions">Top Attractions</h2>
+
+<div class="card">
+<img src="surat castle.jpg" width="250">
+<h3>Surat Castle</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/surat+castle," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="sardar patel.jpg" width="250">
+<h3>Sardar Patel Museum</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Sardar+Patel+Museum,+Athwa,+Surat," target="_blank">
+<button>Get Directions</button>
+</a>
+</div> 
+
+<div class="card">
+<img src="dutch garden.jpg" width="250">
+<h3>Dutch Garden</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/dutch+garden," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="tapi river.jpg" width="250">
+<h3>Tapi Riverfront</h3>
+<a href= https://www.google.com/maps/dir/19.0834646,72.9010765/Tapi+River+Front,+Bapu+Nagar,+Adajan,+Surat," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="dumas beach.jpg" width="250">
+<h3>Dumas Beach</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Dumas+Beach," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="survali beach.jpg" width="250">
+<h3>Survali Beach</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Suvali+Beach,+Hazira,+Gujarat" target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="iskcon surat.jpg" width="250">
+<h3>ISKCON Temple Surat</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/ISKCON+Vesu,+ISKCON+Vesu+Temple," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="science center.jpg" width="250">
+<h3>Science Center Surat</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Science+Centre+Surat," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="amaazia.jpg" width="250">
+<h3>Amaazia Waterpark</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Amaazia+Water+Park," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="gopi talav.jpg" width="250">
+<h3>Gopi Talav</h3>
+<a href=  https://www.google.com/maps/dir/19.0834646,72.9010765/Gopi+Talav+Boat," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="gavier lake.jpg" width="250">
+<h3>Gavier Lake</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Gavier+Lake," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<h2 class="attractions">Must Try Foods</h2>
+
+<div class="card">
+<img src="locho.jpg" width="250">
+<h3>Surati Locho</h3>
+<p>Recommended place to eat: Gopaal Loccho</p>
+<img src="gl.jpg" width="250"><br>
+<a href="https://www.google.com/maps/dir//Gopaal+Loccho," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="cold coco.jpg" width="250">
+<h3>Cold Coco</h3>
+<p>Recommended place to eat:Gopaal Loccho </p>
+<img src="gl.jpg" width="250"><br>
+<a href="https://www.google.com/maps/dir//Gopaal+Loccho," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="undhiyu.jpg" width="250">
+<h3>Surti Undhiyu</h3>
+<p>Recommended place to eat:Jalaram Khichdi Restaurant </p>
+<img src="jalaram.jpg" width="250"><br>
+<a href="https://www.google.com/maps/dir//Jalaram+Khichdi+Restaurant," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="sev khamani.jpg" width="250">
+<h3>Sev Khamani</h3>
+<p>Recommended place to eat:Gopaal Loccho </p>
+<img src="gl.jpg" width="250"><br>
+<a href="https://www.google.com/maps/dir//Gopaal+Loccho," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="masala khichu.jpg" width="250">
+<h3>Masala Khichu</h3>
+<p>Recommended place to eat:Jalaram Khichdi Restaurant </p>
+<img src="jalaram.jpg" width="250"><br>
+<a href="https://www.google.com/maps/dir//Jalaram+Khichdi+Restaurant," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="ponk.jpg" width="250">
+<h3>Ponk</h3>
+<p>Recommended place to eat:Dattatrey Ponk Vada & Green Ponk </p>
+<img src="ponk vada.png" width="250"><br>
+<a href="https://www.google.com/maps/dir//Dattatrey+Ponk+Vada+%26+Green+Ponk," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<div class="card">
+<img src="Khaman Dhokla.jpg" width="250">
+<h3>Khaman Dhokla</h3>
+<p>Recommended place to eat:Gopaal Loccho </p>
+<img src="gl.jpg" width="250"><br>
+<a href="https://www.google.com/maps/dir//Gopaal+Loccho," target="_blank">
+<button>Get Directions</button>
+</a>
+</div>
+
+<h2 class="attractions">Street Shopping</h2>
+<div class="card">
+<img src="ring road.jpg" width="250">
+<h3>Ring Road Textile Market</h3>
+<a href= https://www.google.com/maps/dir/19.0834646,72.9010765/Textile+Market+Ring+Rd," target="_blank">
+<button>Get Directions</button>
+</a>
+</div> 
+
+<div class="card">
+<img src="chauta market.jpg" width="250">
+<h3>Chauta Market</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Chauta+Pul,+Surat," target="_blank">
+<button>Get Directions</button>
+</a>
+</div> 
+
+<div class="card">
+<img src="rander road.jpg" width="250">
+<h3>Rander Road Market</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Rander+Rd,+Surat," target="_blank">
+<button>Get Directions</button>
+</a>
+</div> 
+
+<div class="card">
+<img src="bhagal.jpg" width="250">
+<h3>Bhagal Market</h3>
+<a href= https://www.google.com/maps/dir/19.0834646,72.9010765/Bhagal,+Surat," target="_blank">
+<button>Get Directions</button>
+</a>
+</div> 
+
+<div class="card">
+<img src="gopi talav market.jpg" width="250">
+<h3>Gopi Talav Market</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Gopi+Talav+Market," target="_blank">
+<button>Get Directions</button>
+</a>
+</div> 
+
+<div class="card">
+<img src="varaccha market.jpg" width="250">
+<h3>Varaccha Market</h3>
+<a href=https://www.google.com/maps/dir/19.0834646,72.9010765/Varachha+Main+Rd,+Varachha,+Surat," target="_blank">
+<button>Get Directions</button>
+</a>
+</div> 
+
+<div class="card">
+<img src="sahara darwaja.jpg" width="250">
+<h3>Sahara Darwaja Market</h3>
+<a href= https://www.google.com/maps/dir/19.0834646,72.9010765/Radhey+Market," target="_blank">
+<button>Get Directions</button>
+</a>
+</div> 
+
+
+<div class="footer">
+<p>© 2026 India City Explorer | Created by Hia Gada & Delisha Rodrigues</p>
+</div>
+
+</body>
+</html>
+
